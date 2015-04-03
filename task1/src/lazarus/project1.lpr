@@ -108,9 +108,10 @@ begin
           //SOLUTION!
           //Do some staff about it
         end;
-
-
+        // here no way to go ahead in any case
+        stepDo = false;
     end;
+    //choose step forward / change direction / step backward
   end;
 
  {
